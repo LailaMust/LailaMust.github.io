@@ -1,0 +1,80 @@
+body {
+  background-color: #a3b18a;
+  position: relative;
+  left: 450px;
+}
+img {
+  width: auto;
+  height: 350px;
+  position: relative;
+  left: 200px;
+  border-radius: 30px;
+}
+
+/* .imej {
+  background-color: #344e41;
+  height: 350px;
+  border-radius: 50px;
+  width: 600px;
+} */
+
+.pertama {
+  position: relative;
+  left: 90px;
+  font-size: 40px;
+  font-weight: bolder;
+  background-color: #344e41;
+  height: 50px;
+  width: 430px;
+  border-radius: 10px;
+}
+.kedua {
+  position: relative;
+  left: 155px;
+  font-size: 40px;
+  font-weight: bolder;
+  background-color: #344e41;
+  height: 50px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.ketiga {
+  background-color: #3a5a40;
+  height: 45px;
+  width: 600px;
+  border-radius: 10px;
+}
+.keempat {
+  background-color: #3a5a40;
+  height: 45px;
+  width: 600px;
+  border-radius: 10px;
+}
+
+.kelima {
+  background-color: #3a5a40;
+  height: 45px;
+  width: 600px;
+  border-radius: 10px;
+}
+.keenam {
+  background-color: #3a5a40;
+  height: 45px;
+  width: 600px;
+  border-radius: 10px;
+}
+main {
+  background-color: #588157;
+  height: 1150px;
+  width: 600px;
+  border-radius: 50px;
+  position: relative;
+  bottom: 40px;
+}
+
+header {
+  background-color: #588157;
+  width: 600px;
+  border-radius: 50px;
+}
